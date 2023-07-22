@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kheint-kun a Com. E.T. student
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning c programming language.
-- 💞️ I’m looking to collaborate on my projects, not now tho.
+- 💞️ I’m looking forward to collaborate on my projects, not now tho.
 - 📫 How to reach me it's a secret, since I'm new here.
 
 <!---
