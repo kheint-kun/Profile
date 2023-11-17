@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kheint-kun a Com. E.T. student
+- 👋 Hi, I’m Kheint Quinatadcan Carabuena a Com. E.T. student in CITE Technical Institute, Inc.
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning c programming language.
 - 💞️ I’m looking forward to collaborate on my projects, not now tho.
