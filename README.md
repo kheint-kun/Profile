@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kheint Quinatadcan Carabuena a Com. E.T. student in CITE Technical Institute, Inc.
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning c programming language.
+- 🌱 I’m currently learning Java programming language.
 - 💞️ I’m looking forward to collaborate on my projects, not now tho.
 - 📫 How to reach me it's a secret, since I'm new here.
 
